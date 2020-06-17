@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+Политика конфиденциальности мобильного приложения «ItBooksEhchanger»
+Настоящая Политика конфиденциальности приложения «ItBooksEhchanger» (далее — Политика) действует в отношении всей информации, которую ItBooksEhchanger может получить о пользователе во время использования им данного приложения. Согласие пользователя на предоставление персональной информации, данное им в соответствии с настоящей Политикой в рамках отношений с одним из лиц, входящих в персонал ItBooksEhchanger, распространяется на все лица, входящие в ItBooksEhchanger.
 
-You can use the [editor on GitHub](https://github.com/EvgeniyYakimov/pv_booksExch.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Использование приложения означает безоговорочное согласие пользователя с настоящей Политикой и указанными в ней условиями обработки его персональной информации; в случае несогласия с этими условиями пользователь должен воздержаться от использования приложения.
 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
